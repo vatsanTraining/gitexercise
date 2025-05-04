@@ -7,4 +7,7 @@ public class Greeting {
 		
 		return "Hello World";
 	}
+	public String show() {
+		return "hello india";
+	}
 }
